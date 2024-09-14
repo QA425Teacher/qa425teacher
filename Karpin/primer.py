@@ -12,3 +12,4 @@ random.shuffle(ticket_numbers)
 for i in range(len(names)):
     print(f" Билет N{ticket_numbers[i]}. {names[i]}")
 print("Успешной защиты!")
+print("Ну вот и все закончилось а вы боялись :)")
